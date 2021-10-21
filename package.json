@@ -1,6 +1,6 @@
 {
   "name": "prestart",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prestart CLI distribution code (Mified)",
   "bin": {
     "polyger": "prestart.js"
