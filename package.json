@@ -1,0 +1,17 @@
+{
+  "name": "prestart",
+  "version": "1.0.1",
+  "description": "Prestart CLI distribution code (Mified)",
+  "bin": {
+    "polyger": "prestart.js"
+  },
+  "author": "akasia-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akasia-dev/prestart-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akasia-dev/prestart-cli/issues"
+  }
+}
