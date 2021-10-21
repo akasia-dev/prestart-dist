@@ -1,9 +1,9 @@
 {
   "name": "prestart",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Prestart CLI distribution code (Mified)",
   "bin": {
-    "polyger": "prestart.js"
+    "prestart": "prestart.js"
   },
   "author": "akasia-dev",
   "license": "MIT",
